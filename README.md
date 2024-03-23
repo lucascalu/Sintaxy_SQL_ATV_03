@@ -8,7 +8,7 @@
 <br>
 
 <p>
- Cada aluno deverá criar uma base de dados com nome AlunosSala com uma tabela chamada alunos, com colunas id (AUTO_INCREMENT) , nome (VARCHAR) , sobrenome (VARCHAR) , idade (VARCHAR) e alimenta-la com as informações listadas através de um sistema SGBD.
+ Cada aluno deverá ATUALIZAR sua base de dados com nome AlunosSala inserindo na tabela chamada alunos uma coluna chamada favorites (VARCHAR) e alimentar 10 linhas da mesma com o campo SIM através de um sistema SGBD apontando quem são os seus 10 amigos favoritos.
 Cada aluno deverá posta o código fonte na plataforma Github e inserir o respectivo link na plataforma classrom 
   
 </p>
@@ -52,7 +52,7 @@ Critérios de Avaliação
 <br>
 
 <p>
- Each student must create a database named StudentsRoom with a table called students, with columns id (AUTO_INCREMENT), name (VARCHAR), surname (VARCHAR), age (VARCHAR) and feed it with the information listed through a system DBMS.
+ Each student must UPDATE their database with the name StudentsSala by inserting a column called favorites (VARCHAR) into the table called students and feeding 10 rows of it with the YES field through a DBMS system indicating who their 10 favorite friends are.
 Each student must post the source code on the Github platform and insert the respective link on the classrom platform
   
 </p>
